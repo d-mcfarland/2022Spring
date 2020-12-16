@@ -1,0 +1,5 @@
+#Create a Jupyter Notebook file to ask someone for thier name and then print out their name to the screen
+#Ask for name and save the answer (into a variable) so I can use it later
+myname = input('Please enter your name')
+#Print the name
+print ('This is your name', myname)
