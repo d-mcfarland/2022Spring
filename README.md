@@ -4,7 +4,8 @@ To load this data into Python:
 1) in your .ipynb file type: import pandas as pd
 2)                           df = pd.read_csv('yyy')
 3) where yyy is the url for the data
-4) to retrieve url for data: right-click the file you want load, click "copy link address", go into .ipynb file, delete yyy, click Ctrl-v to paste url
+4) to retrieve url for data: find d-mcfarland github user, click Spring2022
+5) click the file you want to load, right-click the "raw button", click "copy link address", go back to your .ipynb file, delete yyy, click Ctrl-v to paste url
 
 These CSV files were all dowloaded from the US Federal Reserve.
 
